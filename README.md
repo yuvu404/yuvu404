@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Yuvraj</h1>
-<h3 align="center">A Developer that is very interested in the Internet</h3>
+<h1 align="center">Hi 👋, I'm Yuv</h1>
+<h3 align="center">A Goddam Guy that is not very interested in the Internet (haha that was sarcasm pls laugh)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvu404&label=Profile%20views&color=ff0000&style=flat" alt="yuvu404" /> </p>
 
-- 🔭 Currently working on [School App](https://github.com/yuvu404/School)
+- 🔭 Currently working on Umm... A game
 
 - 🧠 Currently learning **React Native, Unreal Engine, C++ and Drizzle ORM**
 
 - 👨‍💻 All of my projects are available at [Comming soon...](Comming soon...)
 
-- 💬 Always ask me about **React, Next.Js, SQL, FLutter**
+- 💬 Always ask me about **React, Next.Js, SQL, Unreal Engine**
 
 - 📫 How to reach me and yes this is my email **dontcontactmenotyuvu@gmail.com**
 
-- ⚡ Not So Fun fact **I am not a Nerd 🤓**
+- ⚡ Not So Fun fact **I am a human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
