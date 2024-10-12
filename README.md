@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvu404&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="yuvu404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvu404&theme=dark" alt="yuvu404" /></p>
+
+<h2>Yeah... ngl i am working on this okay so don't jugde me, i know you are judging me but pls sotp</h2>
